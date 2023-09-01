@@ -1,1 +1,6 @@
-# contracts-master
+# contracts
+The Contracts for the FungFi Defi Protocol
+
+* MUSH Token: 0x93C55AFcBB82594F7446537e4071fc6439E14f2a
+* Mushroom Farm: 0x25BD0F92fAEc987FE978714eac986b2515F5E2fc
+* Timelock: 0x293362577191f7c4e80030485e2800b45Ee44D65
